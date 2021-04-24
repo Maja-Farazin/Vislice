@@ -3,7 +3,6 @@
 ## Avtorji
 
 * Maja Farazin
-* Lojze Slak
 
 ## Opis
 
