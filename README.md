@@ -3,7 +3,7 @@
 ## Avtorji
 
 * Maja Farazin
-* Matija Pretnar
+* Lojze Slak
 
 ## Opis
 
